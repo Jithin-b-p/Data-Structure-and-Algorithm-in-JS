@@ -1,4 +1,4 @@
-Selection Sort
+# Selection Sort
 
 It is a simple sorting algorithm that works by repeatedly find the smallest element in a SUBARRAY and replacing
 it with the 1ST ELEMENT OF THE SUBARRAY.
