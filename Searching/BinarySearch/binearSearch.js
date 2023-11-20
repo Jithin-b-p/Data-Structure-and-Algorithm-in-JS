@@ -26,5 +26,8 @@ function binarySearch(numbers, key) {
 
 const numbers = [4, 63, 33, 15, 6, 10, 20];
 
+// binary search can be applied on sorted data.
+numbers.sort((a, b) => a - b);
+
 console.log(binarySearch(numbers, 15));
 console.log(binarySearch(numbers, 56));
