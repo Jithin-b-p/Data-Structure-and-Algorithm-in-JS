@@ -169,3 +169,4 @@ const strPalindromeOrNot = function (start, str) {
 
 const str = "malayalam";
 console.log(strPalindromeOrNot(0, str));
+
